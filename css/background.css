@@ -1,0 +1,35 @@
+*
+{
+    padding: 0;
+    margin:0;
+}
+
+body
+{
+    scroll-behavior:smooth;
+    overflow-x:hidden;
+}
+.logo
+{
+    width: 50px;
+    height: 50px;
+}
+#data,.text-center h1{
+        font-family: "Sofia", sans-serif;
+}
+.signUp
+{
+    margin-top: 200px;
+}
+h1{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.info
+{
+    margin-top: 30px;
+    margin-left: 600px;
+    border: none;
+    
+}
